@@ -1,0 +1,24 @@
+#root {
+  width: 100%;
+  min-width: 1200px;
+  height: 100%;
+}
+
+/* 公共样式 */
+.ml {
+  margin-left: 10px;
+}
+
+.mt {
+  margin-top: 20px;
+}
+
+.h-10{
+  height: 10px;
+}
+.h-20{
+  height: 20px;
+}
+.h-50{
+  height: 50px;
+}
