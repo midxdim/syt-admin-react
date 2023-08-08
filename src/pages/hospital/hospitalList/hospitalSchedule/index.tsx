@@ -1,5 +1,4 @@
 import {Breadcrumb, Button, Card, Col, Pagination, Row, Table, Tag, Tree} from "antd";
-import { DataNode } from "antd/lib/tree";
 import React, {useEffect, useState} from "react";
 import {BookingScheduleItem, Department, DoctorItem} from "@api/hospital/model/hospitalScheduleTypes";
 import {ColumnsType} from "antd/lib/table";

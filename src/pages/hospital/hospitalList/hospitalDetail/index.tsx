@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {Badge, Button, Card, Descriptions} from "antd";
+import {Button, Card, Descriptions} from "antd";
 import {useNavigate, useParams} from "react-router-dom";
 import {ReqGetHospitalDetail} from "@api/hospital/model/hospitalListTypes";
 import {reqGetHospitalDetail} from "@api/hospital/hospitalList";
